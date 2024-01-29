@@ -2,7 +2,7 @@
 
 version       = "0.1.0"
 author        = "hanhursp1"
-description   = "A new awesome nimble package"
+description   = "Simple linear algebra library for Nim"
 license       = "MIT"
 srcDir        = "src"
 
